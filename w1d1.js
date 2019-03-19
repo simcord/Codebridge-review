@@ -3,19 +3,98 @@
 // var z = a + b;
 // console.log(z);
 
-let a = 1;
-let b = 12;
-let c = 18;
-let d = 4;
-let e = 9;
-let f = 6;
-let g = 19;
-let h = 9;
-let i = 6;
-let j = 30;
-
-//let array = [1, 12, 18, 4, 9, 6, 19, 9, 6, 30];
+// let a = 1;
+// let b = 12;
+// let c = 18;
+// let d = 4;
+// let e = 9;
+// let f = 6;
+// let g = 19;
+// let h = 9;
+// let i = 6;
+// let j = 30;
 
 
-let sum1 = (a+b+c+d+e)/5;
-console.log(sum1);
+// let sum1 = (a+b+c+d+e)/5;
+// console.log(sum1);
+
+
+// let a = 4;
+// let b = 10;
+// let c = 22;
+// let d = -30;
+// let e = 55;
+// let f = 68;
+// let g = 7;
+// let h = -22;
+// let i = 9;
+// let j = 100;
+
+
+// let sum1 = (a+b+c+d+e)/5;
+
+
+
+// let a = 149;
+// if(a < 100) {
+	
+// 	if(a > 0 ){
+// 		console.log('I am less then 100 and positive');
+// 	}
+// 	else{
+// 		console.log('I am negative and less then 100');
+// 	}
+// }
+// else{
+// 	console.log('Is greater then 100')
+// }
+
+
+// let grade = 89;
+ 
+
+//  if(grade >= 90) {
+//  	console.log('A');
+//  }
+//  else if(grade >= 80 ){
+//  	console.log('B');
+//  }
+//  else if(grade >= 70){
+//  	console.log('C');
+//  }
+//  else if(grade >=55 ){
+//  	console.log('D');
+//  }
+
+//  else{
+//  	console.log('You got an F');
+//  }
+
+for(let i=10; i>0; i--){
+	console.log(i);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
