@@ -15,7 +15,7 @@
 // let j = 30;
 
 
-// let sum1 = (a+b+c+d+e)/5;
+// let avg1 = (a+b+c+d+e)/5;
 // console.log(sum1);
 
 
@@ -31,7 +31,7 @@
 // let j = 100;
 
 
-// let sum1 = (a+b+c+d+e)/5;
+// let avg1 = (a+b+c+d+e)/5;
 
 
 
@@ -70,12 +70,33 @@
 //  	console.log('You got an F');
 //  }
 
-for(let i=10; i>0; i--){
-	console.log(i);
-}
+
+//##########Codesmith challenge for loops.###########
+// for(let i=10; i>0; i--){
+// 	console.log(i);
+// }
 
 
 
+//######Codesmith challenge for loops and arrays###########
+
+
+// const synonyms = ['fantastic', 'wonderful', 'great'];
+// const greetings = [];
+
+
+// for(let i=0; i<synonyms.length; i++){
+// 	greetings.push('Have a ' + synonyms[i] + ' day!');
+// }
+// console.log(greetings);
+
+// for(let i=0; i<greetings.length; i++){
+// 	console.log(greetings[i]);
+// }
+
+
+
+//######Codesmith challenge for loops and arrays indices###########
 
 
 
