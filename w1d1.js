@@ -55,7 +55,6 @@
 
 //#########Unit 1.3 page 14;Else If Statements###############
 
-
 // let grade = 89;
  
 
@@ -77,7 +76,8 @@
 //*************HOMEWORK*****************
 
 // ************Unit 1.3 page 25;*****************
-//1. print 1,3,5,7 and 9.
+
+// 1. print 1,3,5,7 and 9.
 
 // for(let i=1; i<10; i=i+2) {
 // 	console.log('i= '+i+' is an odd number');
@@ -88,23 +88,33 @@
 // for(let i=2; i<=10; i=i+2) {
 // 	console.log('i= '+i+' is an even number');
 // }
+
 //********Unit 1.3 page 26;************
-//1. print create a loop that outputs multiples of 3. starting at 6. ending at 60.
+
+// 1. print create a loop that outputs multiples of 3. starting at 6. ending at 60.
 
 // for(let i=6; i<=60; i=i+3) {
-// 	console.log('i= '+i+' is a multiple of 3' )
+// 	console.log('i= '+i+' is a multiple of 3')
+// }
+// On page 27 of Unit 1.3 this for loop below was giving, as per the question this for loop is wrong, 
+// the for loop continued until it reached 180 and it stopped. 
+// Will speak to Ms. Kai about it because the for loop asked to stop at 60
+// for(var i=2; i<=60; i++) {
+// 	console.log(3*i);
 // }
 
-//2. looping a triangle (its missing the first hash)
 
-let word ="#";
-console.log(word);
-for(i=0; i<7; i++) {
-	word= word +"#";
-	console.log(word);
-}
+// 2. looping a triangle 
+
+// let word ="#";
+// console.log(word);
+// for(i=0; i<7; i++) {
+// 	word= word +"#";
+// 	console.log(word);
+// }
 
 
+hello
 
 
 
