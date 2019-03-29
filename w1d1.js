@@ -141,7 +141,7 @@
 
 
 
-hello
+//hello
 
 
 // ***************Codesmith challenge for loops;*****************
@@ -205,7 +205,7 @@ for(let i=0; i < arr.length; i++) {
 }
 
 
-
+hi
 
 
 
