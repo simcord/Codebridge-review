@@ -171,42 +171,50 @@
 
 
 
-// **************Codesmith challenge for loops and arrays indices;***********
+// **************Codesmith challenge While loops and arrays indices;***********
+
+// const increaseByTwo = [1, 2, 3, 4, 5];
+// // ADD CODE HERE
+// for(let i=0; i<increaseByTwo.length; i++ ){
+//   increaseByTwo[i]= 2+ increaseByTwo[i];
+//   console.log(increaseByTwo[i]);
+// }
 
 
+
+// Uncomment the line below to check your work!
+//console.log(2+increaseByTwo[i]); // -> should print [3, 4, 5, 6, 7];
 
 
 
 
 // ***********Change dispenser;****************
 
-const arr = [100, 50, 20, 10, 5, 1, .25, .10, .05, .01];
-let numberOfCurrency = []
+// const arr = [100, 50, 20, 10, 5, 1, .25, .10, .05, .01];
+// let numberOfCurrency = []
 
 
-const bill = 100;
-const cost = 4;
-let change = bill - cost;
+// const bill = 100;
+// const cost = 4;
+// let change = bill - cost;
 
-for(let i=0; i < arr.length; i++) {
-	let increment = arr[i];
-	let counter = 0;
-	while(change >= increment){
-		change -= increment;
-		counter++;
-	}
-	numberOfCurrency.push(counter)
-}
-console.log(numberOfCurrency)
-
-
-for(let i=0; i < arr.length; i++) {
-	console.log(`We have ${numberOfCurrency[i]} of ${arr[i]}`)
-}
+// for(let i=0; i < arr.length; i++) {
+// 	let increment = arr[i];
+// 	let counter = 0;
+// 	while(change >= increment){
+// 		change -= increment;
+// 		counter++;
+// 	}
+// 	numberOfCurrency.push(counter)
+// }
+// console.log(numberOfCurrency)
 
 
-hi
-hello
+// for(let i=0; i < arr.length; i++) {
+// 	console.log(`We have ${numberOfCurrency[i]} of ${arr[i]}`)
+// }
+
+
 
 
 
