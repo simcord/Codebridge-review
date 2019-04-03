@@ -100,7 +100,10 @@
 // for(let i=6; i<=60; i=i+3) {
 // 	console.log('i= '+i+' is a multiple of 3')
 // }
-// 
+// Attention On page 27 of Unit 1.3 the for loop below was giving, as per the question this for loop is wrong, 
+// for(var i=2; i<=60; i++) {
+// 	console.log(3*i);
+// }
 
 
 // ************Unit 1.3 page 28 **************
@@ -134,16 +137,19 @@
 // }
 
 
-// **************Codesmith Challenges***************
 
 
 
-// ***************Codesmith challenge for loops;*****************
 
 
-// for(let i=10; i>0; i--){
-// 	console.log(i);
+// ***************Codesmith challenge for loops fundamentals;*****************
+
+// let countDown = 0;
+// for(let i=10; i>=0; i--){
+//   console.log(i);
 // }
+
+
 
 
 
@@ -164,7 +170,30 @@
 // }
 
 
-// ********Challenge: For Loops - Calculating Array Elements*********
+
+// **************Codesmith challenge for loops and arrays indices;***********
+
+// const firstNames = ["Jon", "Arya", "Jamie"];
+// const lastNames = ["Snow", "Stark", "Lannister"];
+// const places = ["The Wall", "Winterfell", "Kings Landing"];
+
+
+// const bios = [];
+
+// // Loop through your arrays and store the following strings in the bios array:
+// // 'My name is Jon Snow and I am from The Wall'
+// // 'My name is Arya Stark and I am from Winterfell'
+// // 'My name is Jamie Lannister and I am from Kings Landing'
+
+// // ADD CODE HERE
+// for(let i=0; i<firstNames.length; i++) {
+  
+//  let sentence = `My name is ${firstNames[i]} ${lastNames[i]} and I am from ${places[i]}`;
+// //  console.log(sentence);
+//  bios.push(sentence);
+
+
+//***************For Loops - Calculating Array Elements****************
 
 // const increaseByTwo = [1, 2, 3, 4, 5];
 // // ADD CODE HERE
@@ -179,8 +208,19 @@
 //console.log(2+increaseByTwo[i]); // -> should print [3, 4, 5, 6, 7];
 
 
-// ************Challenge: While Loops - Conditional Expression*************
+//*************While Loops - Fundamentals***************
 
+// let count = 2;
+// // ADD CODE HERE
+// while(count <8){
+//   count++;
+// }
+
+
+// // Uncomment these to check your work!
+// console.log(count); 
+
+// ************Challenge: While Loops - Conditional Expression*************
 
 // (addThis < 10){
 //   sum+=addThis;
@@ -192,6 +232,9 @@
 //  console.log(sum);let addThis = 0;
 // let sum = 0;
 // while
+
+
+
 
 
 
