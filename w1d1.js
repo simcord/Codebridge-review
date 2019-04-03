@@ -100,12 +100,7 @@
 // for(let i=6; i<=60; i=i+3) {
 // 	console.log('i= '+i+' is a multiple of 3')
 // }
-// Attention On page 27 of Unit 1.3 the for loop below was giving, as per the question this for loop is wrong, 
-// the for loop continued until it reached 180 and it stopped. 
-// Will speak to Ms. Kai about it because the for loop asked to stop at 60
-// for(var i=2; i<=60; i++) {
-// 	console.log(3*i);
-// }
+// 
 
 
 // ************Unit 1.3 page 28 **************
@@ -139,9 +134,8 @@
 // }
 
 
+// **************Codesmith Challenges***************
 
-
-//hello
 
 
 // ***************Codesmith challenge for loops;*****************
@@ -170,8 +164,7 @@
 // }
 
 
-
-// **************Codesmith challenge While loops and arrays indices;***********
+// ********Challenge: For Loops - Calculating Array Elements*********
 
 // const increaseByTwo = [1, 2, 3, 4, 5];
 // // ADD CODE HERE
@@ -184,6 +177,21 @@
 
 // Uncomment the line below to check your work!
 //console.log(2+increaseByTwo[i]); // -> should print [3, 4, 5, 6, 7];
+
+
+// ************Challenge: While Loops - Conditional Expression*************
+
+
+// (addThis < 10){
+//   sum+=addThis;
+//   addThis++;
+// }
+
+
+// // Uncomment the line below to check your work!
+//  console.log(sum);let addThis = 0;
+// let sum = 0;
+// while
 
 
 
