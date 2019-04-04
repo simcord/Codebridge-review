@@ -101,6 +101,8 @@
 // 	console.log('i= '+i+' is a multiple of 3')
 // }
 // Attention On page 27 of Unit 1.3 the for loop below was giving, as per the question this for loop is wrong, 
+// the for loop continued until it reached 180 and it stopped. 
+// Will speak to Ms. Kai about it because the for loop asked to stop at 60
 // for(var i=2; i<=60; i++) {
 // 	console.log(3*i);
 // }
@@ -137,6 +139,36 @@
 // }
 
 
+// ***************Unit 1.4 page 24, ****************
+
+
+// function add(3, 5, 6){
+// 	console.log(add);
+
+// }
+
+
+//************Codesmith Challenge: Arrays - Examining Elements***********
+
+// const horror = ['Freddy', 'Jason', 'Michael', 'Ghostface', 'Chucky'];
+
+// // ADD CODE HERE
+// let fourthItem = horror[3];
+// console.log(fourthItem);
+
+
+//*************Codesmith Challenge: Arrays - Adding Elements***********
+
+// const  netflixShows = ["Orange is the New Black", "Black Mirror", "Chewing Gum"];
+
+// // ADD CODE HERE
+
+// netflixShows.push('The Ozarks');
+
+// // Write a console.log statement below to check your work!
+// console.log(netflixShows);
+
+
 
 
 
@@ -171,7 +203,7 @@
 
 
 
-// **************Codesmith challenge for loops and arrays indices;***********
+// **************Codesmith challenge for loops and Array indices;***********
 
 // const firstNames = ["Jon", "Arya", "Jamie"];
 // const lastNames = ["Snow", "Stark", "Lannister"];
@@ -193,7 +225,7 @@
 //  bios.push(sentence);
 
 
-//***************For Loops - Calculating Array Elements****************
+//***************Codesmith challenge For Loops - Calculating Array Elements****************
 
 // const increaseByTwo = [1, 2, 3, 4, 5];
 // // ADD CODE HERE
@@ -208,7 +240,7 @@
 //console.log(2+increaseByTwo[i]); // -> should print [3, 4, 5, 6, 7];
 
 
-//*************While Loops - Fundamentals***************
+//*************  While Loops - Fundamentals***************
 
 // let count = 2;
 // // ADD CODE HERE
