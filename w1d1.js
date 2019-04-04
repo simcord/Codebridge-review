@@ -21,20 +21,7 @@
 // let avg1 = (a+b+c+d+e)/5;
 // console.log(sum1);
 
-// let a = 4;
-// let b = 10;
-// let c = 22;
-// let d = -30;
-// let e = 55;
-// let f = 68;
-// let g = 7;
-// let h = -22;
-// let i = 9;
-// let j = 100;
 
-
-// let avg1 = (a+b+c+d+e)/5;
-// console.log(avg1);
 
 // *******Unit 1.3 page 12;;***********
 
@@ -81,13 +68,13 @@
 
 // ************Unit 1.3 page 25;*****************
 
-// 1. print 1,3,5,7 and 9.<<<<<<<<<
+// 1. print 1,3,5,7 and 9
 
 // for(let i=1; i<10; i=i+2) {
 // 	console.log('i= '+i+' is an odd number');
 // }
 
-// 2. print 2,4,6,8 and 10.<<<<<<<<<<
+// 2. print 2,4,6,8 and 10
 
 // for(let i=2; i<=10; i=i+2) {
 // 	console.log('i= '+i+' is an even number');
@@ -110,7 +97,7 @@
 
 // ************Unit 1.3 page 28 **************
 
-// looping a triangle<<<<<<<<<<<<<<<
+// looping a triangle
 
 // let word ="#";
 // console.log(word);
@@ -121,7 +108,7 @@
 
 // **********Unit 1.3 page 31;************
 
-// print even 1-10<<<<<<<<<<<
+// print even 1-10
 
 //  for(i=2; i<=10; i++) {
 //  	if(i%2==0){
@@ -131,7 +118,7 @@
 
 //  ******Unit 1.3 page 33;************* 
 
-// print even; odds; and prime 1-20;<<<<<<<<<<
+// print even; odds; and prime 1-20
 // for(let i=1; i<=20; i++) {
 // 	if(i%2==0) {
 // 		console.log("i= "+(i)+" is even");
@@ -173,18 +160,12 @@
 
 
 
-
-
-
 // ***************Codesmith challenge for loops fundamentals;*****************
 
 // let countDown = 0;
 // for(let i=10; i>=0; i--){
 //   console.log(i);
 // }
-
-
-
 
 
 // **************Codesmith challenge for loops and arrays;***********
@@ -300,6 +281,15 @@
 // }
 
 
+// ********Eloquent Book Chapter 5 Higher order Functions page 126;*********
+
+// let total = 0, count = 1;
+// while (count <= 10) {
+// total += count;
+// count += 1;
+// }
+// console.log(total);
+ 
 
 
 
