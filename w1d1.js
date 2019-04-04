@@ -1,4 +1,4 @@
-// *******Tuesday March 19, 2019 @2pm  @ GA 2nd Floor;*******
+// *******Tuesday March 19, 2019 @2pm  @ GA 2nd Floor*******
 
 // Adding
 // var a = 9;
@@ -146,6 +146,8 @@
 // 	console.log(add);
 
 // }
+
+//******Wednesday April 3rd 2019 @ GA 2nd floor*********
 
 
 //************Codesmith Challenge: Arrays - Examining Elements***********
