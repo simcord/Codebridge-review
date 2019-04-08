@@ -289,16 +289,45 @@
 // count += 1;
 // }
 // console.log(total);
+
+// const fb = [];
+
+// for(let i=1; i<17; i++){
+//   if(i%15===0){
+//     console.log("fizzbuzz");
+//   }else if(i%3===0){
+//     console.log("fizz");
+//   }else if(i%5===0){
+//     console.log("buzz")
+//   }else{
+//     console.log(i)
+//   }
+
+// }
  
 
 
 
- function repeat(n, action) {
-for (let i = 0; i < n; i++) {
-action(i);
-}
-}
-repeat(3, console.log);
+
+// for(let i=1; i<=16; i++){
+	
+// if(i%15===0)
+// 	console.log("fizzbuzz")
+// else if(i%3===0)
+// 	console.log("fizz")
+// else if(i%5===0)
+// 	console.log("buzz")
+// else {
+// 	console.log(i)
+// }
+// }
+
+//  function repeat(n, action) {
+// for (let i = 0; i < n; i++) {
+// action(i);
+// }
+// }
+// repeat(3, console.log);
 
 
 //  let labels = [];
@@ -309,7 +338,20 @@ repeat(3, console.log);
 
 
 
+function getVowels(str) {
+  var m = str.match(/[aeiou]/gi);
+  if (m === null) {
+    return 0;
+  }
+  return m.length;
+}
 
+console.log(getVowels('sky'));
+// expected output: 0
+
+
+
+hello
 
 
 
