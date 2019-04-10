@@ -338,21 +338,26 @@
 
 
 
-function getVowels(str) {
-  var m = str.match(/[aeiou]/gi);
-  if (m === null) {
-    return 0;
-  }
-  return m.length;
-}
+// function getVowels(str) {
+//   var m = str.match(/[aeiou]/gi);
+//   if (m === null) {
+//     return 0;
+//   }
+//   return m.length;
+// }
 
-console.log(getVowels('sky'));
-// expected output: 0
+// console.log(getVowels('sky'));
+// // expected output: 0
 
 
 
-hello
+var todos = ['item 1', 'item 2', 'item 3']
 
+todos.push('new');
+console.log(todos)
+
+todos.splice('item 2');
+console.log(todos);
 
 
 
