@@ -358,7 +358,7 @@ console.log(todos)
 
 todos.splice('item 2');
 console.log(todos);
-
+c
 
 
 
