@@ -134,6 +134,13 @@
 
 // }
 
+
+//**********Unit 3.1 page 15  @ home***********
+
+
+
+
+
 //******Wednesday April 3rd 2019 @ GA 2nd floor*********
 
 
@@ -347,21 +354,11 @@
 // }
 
 // console.log(getVowels('sky'));
-// // expected output: 0
+// // // expected output: 0
 
 
 
-var todos = ['item 1', 'item 2', 'item 3']
 
-todos.push('new');
-console.log(todos)
-
-todos.splice('item 2');
-console.log(todos);
-
-
-
-do not forget to push
 
 
 
